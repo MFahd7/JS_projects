@@ -1,0 +1,57 @@
+
+body {
+    background-image: url("download.jpeg");
+    background-size: cover;
+    font-family: 'Droid Arabic Kufi', 'Noto Kufi Arabic', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 70%;
+    margin-top: 65%;
+    margin-left: 15%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#reset-btn {
+    background-color: red;
+}
+
+h1 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: green;
+}
+
+#save-btn {
+    background: black;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
